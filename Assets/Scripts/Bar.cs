@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Bar : MonoBehaviour
 {
-    public float speed = 2;
+    public float speed = 2.5f;
 
     // Start is called before the first frame update
     void Start()
